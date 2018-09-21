@@ -26,14 +26,4 @@ body {
     font-size: 350%
 
 }
-<div class="row">
-  <div class="column">
-    <img src="drivelogo.png" alt="Drive" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="KeepLogo.png" alt="Keep" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="DocsLogo.png" alt="Docs" style="width:100%">
-  </div>
-</div>
+
